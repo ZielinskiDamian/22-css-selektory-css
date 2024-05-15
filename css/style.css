@@ -1,0 +1,13 @@
+h1 {
+	background-color: aqua;
+}
+h3 {
+	background-color: bisque;
+}
+h1 + h3 {
+	color: rgb(29, 29, 199);
+}
+p {
+    color: brown;
+}
+
